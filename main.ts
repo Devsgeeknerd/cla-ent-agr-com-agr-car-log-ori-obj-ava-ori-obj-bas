@@ -117,7 +117,7 @@ class ContaPoupanca extends Conta {
   }
 }
 
-let cliente = new Cliente("Paulo Vanderley", "98796321457", "(00) 9736-4585");
+let cliente = new Cliente("Paulo Vanderley", "98796321457", "(00) 9036-4500");
 let contaCorrente = new ContaCorrente("c0001");
 
 contaCorrente.depositar(100);
